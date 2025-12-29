@@ -27,7 +27,7 @@
 #include <linux/mailbox/qmp.h>
 #endif
 #ifdef CONFIG_CNSS_OUT_OF_TREE
-#include "../inc/ cnss2.h"
+#include "../inc/cnss2.h"
 #else
 #include <net/cnss2.h>
 #endif
